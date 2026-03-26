@@ -32,7 +32,7 @@ Organizing information into clear sections
 Including an easy-to-use appointment form (UI)
 Focusing on accessibility and community needs
 
-###Technologies
+Technologies
 HTML5
 Tailwind CSS
 
