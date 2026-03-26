@@ -2,14 +2,14 @@
 A responsive multi-page hospital website built using HTML and Tailwind CSS.
 This project focuses on delivering a clean, simple, and user-friendly healthcare interface for patientCommunity Care Hospital Website
 
-##Pages
+Pages
 Home – Overview and introduction
 Services – Medical services offered
 Doctors – Healthcare professionals
 Appointment – Booking form (UI only)
 Contact – Contact details and message form
 
-###Features
+Features
 Responsive design for all devices 
 Clean and modern user interface
 Easy navigation across all pages
