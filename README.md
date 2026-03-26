@@ -16,6 +16,22 @@ Easy navigation across all pages
 Styled forms and service cards
 Community-focused and accessible layout
 
+Problems with Existing Hospital Websites
+Many hospital websites face challenges such as:
+Complex and confusing navigation
+Poor mobile responsiveness
+Overloaded and cluttered layouts
+Difficult appointment booking processes
+Lack of clear communication for patients
+
+Solutions Provided by This Project
+This project improves user experience by:
+Providing a simple and clean design
+Ensuring full responsiveness across devices
+Organizing information into clear sections
+Including an easy-to-use appointment form (UI)
+Focusing on accessibility and community needs
+
 ###Technologies
 HTML5
 Tailwind CSS
